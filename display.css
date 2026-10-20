@@ -1,0 +1,21 @@
+.box-L{
+    background-color: lime;
+    width: fit-content;
+}
+.box-A{
+    background-color: aquamarine;
+    width: fit-content;
+}
+.box-N{
+    background-color: navy;
+    width: fit-content;
+}
+.box-Y{
+    background-color: yellow;
+    width: fit-content;
+}
+.container{
+    background-color: crimson;
+    display: flex;
+    flex-direction: row;
+}
